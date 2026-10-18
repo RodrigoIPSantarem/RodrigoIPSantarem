@@ -13,7 +13,7 @@ Estudante de Engenharia Informática na Escola Superior de Gestão e Tecnologia 
 
 ## Tecnologias
 
-Java, Python, Node.js, Express, Git
+Java, Python, Node.js, Express, Git, SQL
 
 ## Experiência
 
