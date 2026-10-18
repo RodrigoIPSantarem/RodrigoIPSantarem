@@ -9,7 +9,6 @@ Estudante de Engenharia Informática na Escola Superior de Gestão e Tecnologia 
 - **[RodrigoSistemaCotacoes](https://github.com/RodrigoIPSantarem/RodrigoSistemaCotacoes)** (Java): sistema de cotações.
 - **[RodrigoSilvaAnaliseFundamental](https://github.com/RodrigoIPSantarem/RodrigoSilvaAnaliseFundamental)** (Java): ferramenta de análise fundamental.
 - **[ProjetoIIA](https://github.com/RodrigoIPSantarem/ProjetoIIA)** (Python): projeto académico.
-- **[SR](https://github.com/RodrigoIPSantarem/SR)**: trabalhos de Serviço de Redes.
 
 ## Tecnologias
 
