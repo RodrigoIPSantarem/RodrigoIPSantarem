@@ -6,9 +6,10 @@ Estudante de Engenharia Informática na Escola Superior de Gestão e Tecnologia 
 
 ## Projetos
 
-- **[SistemaCotacoesPOO](https://github.com/RodrigoIPSantarem/SistemaCotacoesPOO)** (Java): sistema de cotações, projeto académico.
-- **[ProjetoIIA](https://github.com/RodrigoIPSantarem/ProjetoIIA)** (Python): projeto académico.
-
+- **[sistema-cotacoes-poo](https://github.com/RodrigoIPSantarem/sistema-cotacoes-poo)** (Java): projeto académico da UC Programação Orientada a Objetos
+- **[quality-investor](https://github.com/RodrigoIPSantarem/quality-investor)** (Python): projeto académico da UC Introdução a Inteligência Artificial.  
+- **[sistema-gestao-hoteleira](https://gitbub.com/RodrigoIPSantarem/sistema-gestao-hoteleira)** (Java): projeto académico da UC Engenharia de Software
+ 
 ## Tecnologias
 
 Java, Python, Node.js, Express, Git, SQL
