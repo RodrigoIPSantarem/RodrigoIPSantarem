@@ -6,7 +6,7 @@ Estudante de Engenharia Informática na Escola Superior de Gestão e Tecnologia 
 
 ## Projetos
 
-- **[SistemaCotacoesPOO](https://github.com/RodrigoIPSantarem/SistemaCotacoesPOO)** (Java): sistema de cotações.
+- **[SistemaCotacoesPOO](https://github.com/RodrigoIPSantarem/SistemaCotacoesPOO)** (Java): sistema de cotações, projeto académico.
 - **[ProjetoIIA](https://github.com/RodrigoIPSantarem/ProjetoIIA)** (Python): projeto académico.
 
 ## Tecnologias
